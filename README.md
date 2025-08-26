@@ -11,6 +11,7 @@ This portfolio is to showcase my data analysis / science work on conducting seve
 
 -   Analysis 1: E-sports Revenue Analysis, From Players to Orgs
 -   Analysis 2: Iris Flower Analysis with Flower Predictions
+-   Analysis 3: Analyzing News Framing of Jobs Report
 
 ## 🛠️ Tech Stack
 
@@ -23,7 +24,7 @@ This portfolio is to showcase my data analysis / science work on conducting seve
 
 ## 🔬 AI / ML Projects
 
--   EVE AI Analyst: This agent is capable of performing data analysis and is capable of retrieving ship stats and plotting data visuals.
+-   AI Analyst: This AI Agent will be capable of providing analysis based on video games job market.
 
 ## 🛠️ Tech Stack
 
